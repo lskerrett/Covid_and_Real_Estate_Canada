@@ -1,3 +1,6 @@
+![housing market](https://github.com/lskerrett/Covid-and-Real-Estate-Canada/blob/master/Resources/housing%20market.jpg)
+
+
 # Modelling change of housing market due to COVID-19
 
 ## Description of the project
@@ -12,18 +15,24 @@ In Canada, the job market is remarkably concentrated in the big cities of the pr
  
 ### Data source
 
-We will use data from 3 differents sources: 
+We will use data from 3 differents sources: <br>
 
+-[Canadian Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/data-and-research)
+-[Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=46)
+-[Canadian Real Estate Association](https://creastats.crea.ca/en-CA/)
 
-## Process
+### Communication
 
-1. Determine the questions we aim to answer.<br>
-2. Obtain the relevant datasets.<br>
-3. Define: <br>
+Communication will be done via Slack and Zoom. We will meet at least twice a week
+
+## Definition: 
 -Dependent variable: 
 -Independent variables:
 -The  model algorithm:
-4. Create the database <br>
-5. Run chosen model algorithm.<br>
-6. Analysis of results.<br>
+
+## Database 
+
+## Run chosen model algorithm.
+
+## Analysis of results
 
