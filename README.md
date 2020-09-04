@@ -17,7 +17,7 @@ In Canada, the job market is remarkably concentrated in the big cities of the pr
 
 We will use data from 3 differents sources: <br>
 
--[Canadian Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/data-and-research) <bt>
+-[Canadian Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/data-and-research) <br>
 -[Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data?subject_levels=46) <br>
 -[Canadian Real Estate Association](https://creastats.crea.ca/en-CA/) <br>
 
