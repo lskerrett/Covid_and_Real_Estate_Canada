@@ -1,7 +1,7 @@
 Geographic code,Geographic name,CSD type,Province or territory,"Incompletely enumerated Indian reserves and Indian settlements, 2016","Population, 2016","Population, 2011",2011 adjusted population flag,"Incompletely enumerated Indian reserves and Indian settlements, 2011",2016 population review flag,2011 population review or received update flag,"Population, % change","Total private dwellings, 2016","Private dwellings occupied by usual residents, 2016","Land area in square kilometres, 2016","Population density per square kilometre, 2016","National population rank, 2016","Provincial/territorial population rank, 2016"
 1,Canada,,,T,35151728,33476688,F,T,F,,5,15412443,14072079,8965588.85,3.9,,
 3520005,Toronto,City (C),Ontario,F,2731571,2615060,F,F,F,,4.5,1179057,1112929,630.2,4334.4,1,1
-2466023,Montréal,Ville (V),Quebec,F,1704694,1649519,F,F,F,,3.3,843872,779802,365.65,4662.1,2,1
+2466023,MontrÃ©al,Ville (V),Quebec,F,1704694,1649519,F,F,F,,3.3,843872,779802,365.65,4662.1,2,1
 4806016,Calgary,City (CY),Alberta,F,1239220,1096833,F,F,F,,13,489650,466725,825.56,1501.1,3,1
 3506008,Ottawa,City (CV),Ontario,F,934243,883391,F,F,F,,5.8,395985,373756,2790.3,334.8,4,2
 4811061,Edmonton,City (CY),Alberta,F,932546,812201,F,F,F,,14.8,387950,360828,685.25,1360.9,5,2
@@ -10,7 +10,7 @@ Geographic code,Geographic name,CSD type,Province or territory,"Incompletely enu
 5915022,Vancouver,City (CY),British Columbia,F,631486,603502,F,F,F,,4.6,309418,283916,114.97,5492.6,8,1
 3521010,Brampton,City (CY),Ontario,F,593638,523906,T,F,F,D,13.3,173428,168011,266.36,2228.7,9,4
 3525005,Hamilton,City (C),Ontario,F,536917,519949,F,F,F,,3.3,222918,211596,1117.29,480.6,10,5
-2423027,Québec,Ville (V),Quebec,F,531902,516576,T,F,F,D,3,266409,252043,453.38,1173.2,11,2
+2423027,QuÃ©bec,Ville (V),Quebec,F,531902,516576,T,F,F,D,3,266409,252043,453.38,1173.2,11,2
 5915004,Surrey,City (CY),British Columbia,F,517887,468251,F,F,F,,10.6,181159,169964,316.41,1636.8,12,2
 2465005,Laval,Ville (V),Quebec,F,422993,401553,F,F,F,,5.3,165686,160328,247.23,1710.9,13,3
 1209034,Halifax,Regional municipality (RGM),Nova Scotia,F,403131,390086,T,F,F,D,3.3,187338,173324,5490.35,73.4,14,1
