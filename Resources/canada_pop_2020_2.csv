@@ -1,0 +1,45 @@
+Geographic code,Geographic name,CSD type,Province or territory,"Incompletely enumerated Indian reserves and Indian settlements, 2016","Population, 2016","Population, 2011",2011 adjusted population flag,"Incompletely enumerated Indian reserves and Indian settlements, 2011",2016 population review flag,2011 population review or received update flag,"Population, % change","Total private dwellings, 2016","Private dwellings occupied by usual residents, 2016","Land area in square kilometres, 2016","Population density per square kilometre, 2016","National population rank, 2016","Provincial/territorial population rank, 2016"
+1,Canada,,,T,35151728,33476688,F,T,F,,5,15412443,14072079,8965588.85,3.9,,
+3520005,Toronto,City (C),Ontario,F,2731571,2615060,F,F,F,,4.5,1179057,1112929,630.2,4334.4,1,1
+2466023,Montréal,Ville (V),Quebec,F,1704694,1649519,F,F,F,,3.3,843872,779802,365.65,4662.1,2,1
+4806016,Calgary,City (CY),Alberta,F,1239220,1096833,F,F,F,,13,489650,466725,825.56,1501.1,3,1
+3506008,Ottawa,City (CV),Ontario,F,934243,883391,F,F,F,,5.8,395985,373756,2790.3,334.8,4,2
+4811061,Edmonton,City (CY),Alberta,F,932546,812201,F,F,F,,14.8,387950,360828,685.25,1360.9,5,2
+3521005,Mississauga,City (CY),Ontario,F,721599,713443,F,F,F,,1.1,248469,240913,292.43,2467.6,6,3
+4611040,Winnipeg,City (CY),Manitoba,F,705244,663617,F,F,F,,6.3,294245,281046,464.33,1518.8,7,1
+5915022,Vancouver,City (CY),British Columbia,F,631486,603502,F,F,F,,4.6,309418,283916,114.97,5492.6,8,1
+3521010,Brampton,City (CY),Ontario,F,593638,523906,T,F,F,D,13.3,173428,168011,266.36,2228.7,9,4
+3525005,Hamilton,City (C),Ontario,F,536917,519949,F,F,F,,3.3,222918,211596,1117.29,480.6,10,5
+2423027,Québec,Ville (V),Quebec,F,531902,516576,T,F,F,D,3,266409,252043,453.38,1173.2,11,2
+5915004,Surrey,City (CY),British Columbia,F,517887,468251,F,F,F,,10.6,181159,169964,316.41,1636.8,12,2
+2465005,Laval,Ville (V),Quebec,F,422993,401553,F,F,F,,5.3,165686,160328,247.23,1710.9,13,3
+1209034,Halifax,Regional municipality (RGM),Nova Scotia,F,403131,390086,T,F,F,D,3.3,187338,173324,5490.35,73.4,14,1
+3539036,London,City (CY),Ontario,F,383822,366151,F,F,F,,4.8,175558,163140,420.35,913.1,15,6
+3519036,Markham,City (CY),Ontario,F,328966,301709,F,F,F,,9,106131,102676,212.35,1549.2,16,7
+3519028,Vaughan,City (CY),Ontario,F,306233,288301,F,F,F,,6.2,96657,94253,273.56,1119.4,17,8
+2481017,Gatineau,Ville (V),Quebec,F,276245,265349,F,F,F,,4.1,125608,118385,342.8,805.8,18,4
+4711066,Saskatoon,City (CY),Saskatchewan,F,246376,222246,T,F,T,D,10.9,107098,98565,228.13,1080,19,1
+2458227,Longueuil,Ville (V),Quebec,F,239700,231409,F,F,F,,3.6,110761,105533,115.75,2070.9,20,5
+3530013,Kitchener,City (CY),Ontario,F,233222,219153,F,F,F,,6.4,95495,92217,136.77,1705.2,21,9
+5915025,Burnaby,City (CY),British Columbia,F,232755,223218,F,F,F,,4.3,98030,92201,90.61,2568.7,22,3
+3537039,Windsor,City (CY),Ontario,F,217188,210891,F,F,F,,3,97777,91632,146.38,1483.8,23,10
+4706027,Regina,City (CY),Saskatchewan,F,215106,193150,T,F,F,D,11.4,93197,87417,179.97,1195.2,24,2
+5915015,Richmond,City (CY),British Columbia,F,198309,190473,F,F,F,,4.1,77478,73457,129.27,1534.1,25,4
+,,,,,,,,,,,,,,,,,
+Note:,,,,,,,,,,,,,,,,,
+"Incompletely enumerated Indian reserves and Indian settlements, 2016",T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements.,,,,,,,,,,,,,,,,
+"Incompletely enumerated Indian reserves and Indian settlements, 2011",T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements.,,,,,,,,,,,,,,,,
+2011 adjusted population flag,T = adjusted figure due to boundary change.,,,,,,,,,,,,,,,,
+2016 population review flag,"T = After the release of the 2016 Census population and dwelling counts, issues could occasionally be uncovered in the data. A successful formal review has been conducted for this particular geographic area. It is not possible to make changes to the 2016 Census population and dwelling count data presented in this product. For more information, refer to Population and dwelling count amendments, 2016 Census.",,,,,,,,,,,,,,,,
+2011 population review or received update flag :,,,,,,,,,,,,,,,,,
+A = This geographic area underwent a formal review in 2011.  The 2011 population and/or dwelling counts have been revised.,,,,,,,,,,,,,,,,,
+"B = This geographic area underwent a formal review in 2011, resulting in the re-allocation of the population and/or dwelling counts for the area. The 2011 population and/or dwelling counts have been revised.",,,,,,,,,,,,,,,,,
+C = This geographic area underwent a formal review in 2011. The 2011 population and/or dwelling counts have been revised. The geographic area also underwent a boundary change since the 2011 Census that resulted in an adjustment to the 2011 population and/or dwelling counts for the area.,,,,,,,,,,,,,,,,,
+D = This geographic area underwent a boundary change since the 2011 Census that resulted in an adjustment to the 2011 population and/or dwelling counts for the area.,,,,,,,,,,,,,,,,,
+"E = The 2011 Census was not completed during the 2011 collection period for this area.   Collection for these communities was conducted in October 2011.  The results are available at Profile for the NHS Special Collection for 13 Indian reserves and Indian settlements in Northern Ontario, 2011.",,,,,,,,,,,,,,,,,
+"For further information, refer to: http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/About.cfm.",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Source: Statistics Canada, 2016 Census of Population.",,,,,,,,,,,,,,,,,
+"How to cite: Statistics Canada. 2017. Population and dwelling counts, for Canada and census subdivisions (municipalities), 2016 and 2011 censuses (table). Population and Dwelling Count Highlight Tables. 2016 Census.",,,,,,,,,,,,,,,,,
+"Statistics Canada Catalogue no. 98-402-X2016001. Ottawa. Released February 8, 2017.",,,,,,,,,,,,,,,,,
+"http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/File.cfm?T=301&SR=1&RPP=25&PR=0&CMA=0&CSD=0&S=3&O=D&Lang=Eng&OFT=CSV (accessed September 05, 2020)",,,,,,,,,,,,,,,,,
