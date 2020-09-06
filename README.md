@@ -34,5 +34,7 @@ Communication will be done via Slack and Zoom. We will meet at least twice a wee
 
 ## Run chosen model algorithm
 
+A combination of unsupervised and supervised machine learning techniques will be utilized to gain a better understanding of the relationship between the impact that Covid-19 has had on the real estate market. Unsupervised machine learning will be utilized to first identify any strong relationships between features, and then supervised machine learning will be utilized to build a model which predicts the housing price index for a particular city based on the various features. 
+
 ## Analysis of results
 
