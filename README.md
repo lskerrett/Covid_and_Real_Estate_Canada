@@ -53,7 +53,6 @@ Clusters were not clearly identified in the 3D plot of the first 3 principal com
 
 Supervised machine learning (Neural Networks for example) will be used to build a model which predicts the housing price index for a particular city. This model will be trained with data for years before 2020 and then used to predict house price index for the year 2020 which is when the COVID-19 pandemic happened. We will then analize if the difference between the predictions and the actual house price index for the year 2020 are statistically significant or not. If the difference is statistically significant, this could suggest an effect on house price index due to COVID-19.
 
-### Comments (Can Delete AFter we're done)
-- Need to train the machine learning model to accuractely depict the housing price index using historical data 
-- Can train it based on type of property, location, and economic acitivity (unemployment rate (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703)) 
-- 
+### Comments (Can Delete After we're done)
+- Need to revise the unsupervised machine learning model to simply portray a relationship between housing price index, and type of city/property before and after covid (to identify a trend) 
+- utilize a supervised machine learning model to predict housing price index through covid and compare to actual 
