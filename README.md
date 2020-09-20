@@ -6,7 +6,7 @@
 ## **1._Description of the project**
 
 ### *Overview*
-In Canada, the job market is remarkably concentrated in the big cities of the provinces across the country. This situation leads to higher demand of real state and rent activity in such cities, and many developers rely on such predictable outcome to invest. However, the economy in 2020 has been deeply affected by the COVID-19 pandemic which forced many to work from home, being no longer necessary to look for lodging in the big cities. In this situation, it is important for private developers to know if COVID-19 has affected significantly the housing market in big and small cities across Canada. We are aiming to develop a tool to visualize how the house price index has changed in the pandemic months compared to the "business-as-usual" values which we predict using machine learning algorithms.
+In Canada, the job market is remarkably concentrated in the big cities of the provinces across the country. This situation leads to higher demand of real state and rent activity in such cities, and many developers rely on such predictable outcome to invest. However, the economy in 2020 has been deeply affected by the COVID-19 pandemic which forced many to work from home, being no longer necessary to look for lodging in the big cities. In this situation, it is important for private developers to know if COVID-19 has affected significantly the housing market in big and small cities across Canada. We are aiming to provide insight on how much the house price index has changed in the months of the pandemic, by developing a tool to visualize the values in the pandemic months compared to the "business-as-usual" values which we predict by modeling using a machine learning algorithm approach.
 
 ### *The questions we hope to answer are: <br>*
 
@@ -52,7 +52,7 @@ Clusters were not clearly identified in the 3D plot of the first 3 principal com
 ### **Part 2: Supervised machine learning**
 
 
-Supervised machine learning (Neural Networks) was used to build a model which predicts the housing price index for a particular city. This model will be trained with data for years before 2020 and then used to predict house price index for the year 2020 which is when the COVID-19 pandemic happened. We will then analize if the difference between the predictions and the actual house price index for the year 2020 are statistically significant or not. If the difference is statistically significant, this could suggest an effect on house price index due to COVID-19.
+Supervised machine learning (Neural Networks) was used to build a model which predicts the housing price index for a particular city. Data for years up to 2019 was split into training and evaluation dataset to calculate the model. Then, the model was used to predict house price index from the beginning of COVID-19 pandemic in Canada (March 2020). We will then show in a plot the changes between the predictions and the actual house price index for the year 2020.
 
 ### Comments (Can Delete After we're done)
 - Need to revise the unsupervised machine learning model to simply portray a relationship between housing price index, and type of city/property before and after covid (to identify a trend) 
