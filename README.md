@@ -1,7 +1,7 @@
 ![housing market](https://github.com/lskerrett/Covid-and-Real-Estate-Canada/blob/master/Resources/housing%20market.jpg)
 
 
-# **Modelling change of housing market due to COVID-19**
+# **Modelling housing market during COVID-19**
 
 ## **1._Description of the project**
 
