@@ -21,7 +21,7 @@ In Canada, the job market is remarkably concentrated in the big cities of the pr
 - Did the real state market was impacted positively or negatively by COVID-19?
 - Is the impact different in small cities and big cities?
 <br>
-<br>
+
 ### *Data sources: <br>*
 
 We will use data from 3 differents sources: <br>
