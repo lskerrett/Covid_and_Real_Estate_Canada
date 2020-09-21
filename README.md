@@ -22,7 +22,7 @@ We will use data from 3 differents sources: <br>
 -[Canadian Real Estate Association](https://creastats.crea.ca/en-CA/) <br>
 -
 ### *Data base samples:*
-Housing inventory (housing_inventory_clean_v2.csv) <br>
+Housing inventory (housing_inventory_clean.csv) <br>
 New housing prices (price_index_clean.csv) <br>
 Canadian population 2011-2016 (cleaned_canada_pop_2011_2016.csv)<br>
 
