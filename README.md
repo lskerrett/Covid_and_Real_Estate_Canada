@@ -73,9 +73,9 @@ Two separate analyses were performed using unsupervised machine learning. One wa
 <br>
 Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen. Low fit factors were obtained, implying that this although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index). As mentioned above, further features need to be considered to improve the models accuracy.
 
-![Supervised machine learning result summary - Land](/Resources/Supervised ML_Summary_Land.PNG)
+![Supervised machine learning result summary - Land](/Resources/Supervised_ML_Summary_Land.PNG)
 <br>
 <br>
-![Supervised machine learning result summary - Home](/Resources/Supervised ML_Summary_Housing.PNG)
+![Supervised machine learning result summary - Home](/Resources/Supervised_ML_Summary_Housing.PNG)
 <br>
 <br>
