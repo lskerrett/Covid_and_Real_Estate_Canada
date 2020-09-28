@@ -63,19 +63,19 @@ Housing Type (Land or Home), Price Index, Population Density, Year.<br>
 
 Two separate analyses were performed using unsupervised machine learning. One was performed for the value or price index for land, and the other for home vales or price index. Clusters were not clearly identified in the 3D plots for the two analyses, however it can be seen that a shift towards medium sized cities has been taking place over the past few years, and has been exacerbated in 2020. To improve this analysis, more features, such as city economic health factors should be considered. 
 
-![Unsupervised machine learning result visualization - Land](/Resources/Unsupervised_ML_plot_land.png)
+![Unsupervised machine learning result visualization - Land](/Resources/Unsupervised_ML_plot_land.PNG)
 <br>
 <br>
-![Unsupervised machine learning result visualization - Home](/Resources/Unsupervised_ML_plot_housing.png)
+![Unsupervised machine learning result visualization - Home](/Resources/Unsupervised_ML_plot_housing.PNG)
 <br>
 <br>
 ### **Part 2: Supervised machine learning**
 <br>
 Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen. Low fit factors were obtained, implying that this although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index). As mentioned above, further features need to be considered to improve the models accuracy.
 
-![Unsupervised machine learning result visualization - Land](/Resources/"Supervised ML_Summary_Land".png)
+![Unsupervised machine learning result visualization - Land](/Resources/"Supervised ML_Summary_Land".PNG)
 <br>
 <br>
-![Unsupervised machine learning result visualization - Home](/Resources/Supervised ML_Summary_Housing".png)
+![Unsupervised machine learning result visualization - Home](/Resources/Supervised ML_Summary_Housing".PNG)
 <br>
 <br>
