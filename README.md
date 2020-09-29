@@ -22,8 +22,8 @@ We finally would like to include an interactive dashboard from which the user ca
 <br>
 ### *The questions we hope to answer are: <br>*
 
-- How was the real state market impacted by COVID-19?
-- Is the impact different in small cities and big cities?
+- How was the real estate market impacted by COVID-19?
+- Does the city population size play a role in this impact?
 <br>
 
 ### *Data sources: <br>*
