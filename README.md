@@ -18,6 +18,7 @@ Links to Google Slides:
 ### *Overview*<br>
 In Canada, the job market is remarkably concentrated in the big cities of the provinces across the country. This situation leads to higher demand of real state and rent activity in such cities, and many developers rely on such predictable outcome to invest. However, the economy in 2020 has been deeply affected by the COVID-19 pandemic which forced many to work from home, being no longer necessary to look for lodging in the big cities. In this situation, it is important for private developers to know if COVID-19 has affected significantly the housing market in big and small cities across Canada. We are aiming to provide insight on how much the house price index has changed in the months of the pandemic, by developing a tool to visualize the values in the pandemic months compared to the "business-as-usual" values which we predict by modeling using a machine learning algorithm approach.
 <br>
+We finally would like to include an interactive dashboard from which the user can see the results of such comparison.
 <br>
 ### *The questions we hope to answer are: <br>*
 
@@ -34,8 +35,8 @@ We will use data from 3 differents sources: <br>
 - [Canadian Real Estate Association](https://creastats.crea.ca/en-CA/) <br>
 <br>
 
-### *Data base samples:*
-Housing inventory (housing_inventory_clean.csv) <br>
+### *Produced Database samples:*
+
 New housing prices (price_index_clean.csv) <br>
 Canadian population 2011-2016 (cleaned_canada_pop_2011_2016.csv)
 <br>
@@ -49,7 +50,14 @@ A combination of unsupervised and supervised machine learning techniques will be
 ### **Part 1: Unsupervised machine learning**
 <br>
 
+### * *Jupyter notebooks:*
+
+    Unsupervised Modelling - rev7 - Housing.ipynb
+    Unsupervised Modelling - rev7 - Land.ipynb
+<br>
+
 ### *Model characteristics:*
+
 
 -**Dependent variable:** House price index <br>
 
@@ -58,7 +66,7 @@ Housing Type (Land or Home), Price Index, Population Density, Year.<br>
 
 -**Model algorithm**: K-means <br>
 <br>
-### *Analysis of results*
+### * *Analysis of results*
 
 Two separate analyses were performed using unsupervised machine learning. We analized separately values of price index, population density, and year data for "land" housing type, as well as "home" housing type . Identified clusters are not clearly separated in the 3D plots for the two analyses, however some tendencies can be identified.<br>
 <br>
@@ -78,6 +86,12 @@ Figure 2. Unsupervised machine learning result visualization - Land housing type
 To improve this analysis, more features, such as city economic health factors should be considered.<br>
 <br>
 ### **Part 2: Supervised machine learning**
+<br>
+
+### * *Jupyter notebooks:*
+
+    Supervised Modelling - rev1 - Homes.ipynb
+    Supervised Modelling - rev1 - Land.ipynb
 <br>
 Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen.<br>
 <br>
@@ -103,6 +117,19 @@ In the case of "Land" Housing type model, the coefficients tell us that the pric
 ![Supervised machine learning result summary - Home](/Resources/Supervised_ML_Summary_Housing.PNG)
 <br>
 <br>
-## **Conclusion**<br>
+## **3._Conclusion**<br>
 <br>
-Overall, both models tell us that the Price Index had a tendency to increase through the years before the 2020 COVID-19 pandemic. However, the data exploration phase showed us that in 2020 there was a shift towards medium sized cities in 2020 with a decrease in Price index. This suggests that the house market was indeed impacted, although as mentioned above, further features need to be considered to improve the models accuracy.
+Overall, although both models has limitations given that the required data is hard to access, they can tell us that the Price Index had a tendency to increase through the years up to 2019, a year before the 2020 COVID-19 pandemic. Moreover, the data exploration phase showed us that in 2020 there was a shift towards medium sized cities in 2020 with a decrease in Price index. This suggests that the house market was indeed impacted, although as mentioned above, further features need to be considered to improve the models accuracy.<br>
+<br>
+<br>
+
+## **Dashboard**
+
+<br>
+The dashboard (to be finalized soon) link is noted below:
+<br>
+<br>
+VARIATION OF HOUSE PRICE INDEX PER CITY
+
+http://hpi-pred-app.herokuapp.com/
+<br>
