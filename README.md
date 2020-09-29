@@ -8,6 +8,9 @@ Links to Google Slides:
 - [Project presentation](https://docs.google.com/presentation/d/1XloGJetDxiyN7Yh3OSNy-hipRLcIVP5_HimekSp4Ru0/edit?usp=sharing)
 
 - [Dashboard (Blueprint)](https://docs.google.com/presentation/d/1xjqhkGYUn4ZUA-6dhtKq79eNqyQp06-95V_FGOHLePA/edit?usp=sharing)
+<br>
+<br>
+<br>
 
 ## **1._Description of the project** <br>
 <br>
@@ -18,7 +21,7 @@ In Canada, the job market is remarkably concentrated in the big cities of the pr
 <br>
 ### *The questions we hope to answer are: <br>*
 
-- Did the real state market was impacted positively or negatively by COVID-19?
+- How was the real state market impacted by COVID-19?
 - Is the impact different in small cities and big cities?
 <br>
 
@@ -34,18 +37,14 @@ We will use data from 3 differents sources: <br>
 ### *Data base samples:*
 Housing inventory (housing_inventory_clean.csv) <br>
 New housing prices (price_index_clean.csv) <br>
-Canadian population 2011-2016 (cleaned_canada_pop_2011_2016.csv)<br>
-<br>
-### *Communication*
-
-Communication will be done via Slack and Zoom. We will carry out online meetings at least twice a week with all members.
+Canadian population 2011-2016 (cleaned_canada_pop_2011_2016.csv)
 <br>
 <br>
 <br>
 ## **2._Process**<br>
 <br>
 
-A combination of unsupervised and supervised machine learning techniques will be used to gain a better understanding of the impact that Covid-19 has had on the real estate market. Unsupervised machine learning will be used to first identify any strong relationships between features, and then supervised machine learning will be used to build a model which predicts the housing price index for a particular city. This trained supervised machine learning model will then be used to predict potential cities that have high chances of having their housing price index increase. <br>
+A combination of unsupervised and supervised machine learning techniques will be used to gain a better understanding of the impact that Covid-19 has had on the real estate market. Unsupervised machine learning was used to first identify any strong relationships between features, and then supervised machine learning will be used to build a model which predicts the housing price index for a particular city. This trained supervised machine learning model will then be used to predict potential cities that have high chances of having their housing price index increase. <br>
 <br>
 ### **Part 1: Unsupervised machine learning**
 <br>
@@ -61,21 +60,33 @@ Housing Type (Land or Home), Price Index, Population Density, Year.<br>
 <br>
 ### *Analysis of results*
 
-Two separate analyses were performed using unsupervised machine learning. One was performed for the value or price index for land, and the other for home vales or price index. Clusters were not clearly identified in the 3D plots for the two analyses, however it can be seen that a shift towards medium sized cities has been taking place over the past few years, and has been exacerbated in 2020. To improve this analysis, more features, such as city economic health factors should be considered. 
-
+Two separate analyses were performed using unsupervised machine learning. We analized separately values of price index, population density, and year data for "land" housing type, as well as "home" housing type . Identified clusters are not clearly separated in the 3D plots for the two analyses, however some tendencies can be identified.<br>
+<br>
+For the "Land" housing type data, we observed that in recent years the Price index has remained mostly steady while most of the points are concentrated in mid size cities, with no particular change for the year 2020.
+<br>
+<br>
+Figure 1. Unsupervised machine learning result visualization - Land housing type
 ![Unsupervised machine learning result visualization - Land](/Resources/Unsupervised_ML_plot_land.PNG)
 <br>
 <br>
+<br>As for the "Home" housing type data, it can be seen that a shift towards medium sized cities has been taking place over the past few years, and such tendency has been exacerbated in 2020.<br>
+<br>
+Figure 2. Unsupervised machine learning result visualization - Land housing type
 ![Unsupervised machine learning result visualization - Home](/Resources/Unsupervised_ML_plot_housing.PNG)
 <br>
 <br>
+To improve this analysis, more features, such as city economic health factors should be considered.<br>
+<br>
 ### **Part 2: Supervised machine learning**
 <br>
-Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen. Low fit factors were obtained, implying that this although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index). As mentioned above, further features need to be considered to improve the models accuracy.
+Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen. Low fit factors were obtained, implying that this although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index). As mentioned above, further features need to be considered to improve the models accuracy.<br>
+<br>
+<br>Supervised machine learning result summary - Land housing type
 
 ![Supervised machine learning result summary - Land](/Resources/Supervised_ML_Summary_Land.PNG)
 <br>
-<br>
+<br>Supervised machine learning result summary - Home housing type
+
 ![Supervised machine learning result summary - Home](/Resources/Supervised_ML_Summary_Housing.PNG)
 <br>
 <br>
