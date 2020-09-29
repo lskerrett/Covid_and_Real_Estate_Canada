@@ -44,7 +44,7 @@ Canadian population 2011-2016 (cleaned_canada_pop_2011_2016.csv)
 ## **2._Process**<br>
 <br>
 
-A combination of unsupervised and supervised machine learning techniques will be used to gain a better understanding of the impact that Covid-19 has had on the real estate market. Unsupervised machine learning was used to first identify any strong relationships between features, and then supervised machine learning will be used to build a model which predicts the housing price index for a particular city. This trained supervised machine learning model will then be used to predict potential cities that have high chances of having their housing price index increase. <br>
+A combination of unsupervised and supervised machine learning techniques will be used to gain a better understanding of the impact that Covid-19 has had on the real estate market. Unsupervised machine learning was used to first identify any strong relationships between features, and then supervised machine learning will be used to build a model which predicts the housing price index for a particular city. Furthermore, this prediction can be later compared to the actual Price Index in 2020 and determine if a particular city's housing market was impacted.<br>
 <br>
 ### **Part 1: Unsupervised machine learning**
 <br>
@@ -79,14 +79,30 @@ To improve this analysis, more features, such as city economic health factors sh
 <br>
 ### **Part 2: Supervised machine learning**
 <br>
-Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen. Low fit factors were obtained, implying that this although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index). As mentioned above, further features need to be considered to improve the models accuracy.<br>
+Supervised machine learning (Neural Networks) were used to initially build a model, but due to the low accuracy of the preliminary models, a simpler supervised machine learning technique such as multiple variable linear regression was chosen.<br>
 <br>
-<br>Supervised machine learning result summary - Land housing type
+We divided our 2015-2019 data into training and evaluation subsets in order to predict Price-Index without the effect of the 2020 pandemic.<br>
+<br>
+Low fit factors were obtained, implying that this analysis, although better than neural networks, still don't accurately depict a relationship between the features and the dependent variable (Price Index).<br>
+<br>
+<br>
+
+### *Analysis of results*
+<br>
+
+In the case of "Land" Housing type model, the coefficients tell us that the price index has been increasing through the years, and that there is a slow market movement towards high population cities.
+<br>
+<br>Fig. 3. Supervised machine learning result summary - Land housing type
 
 ![Supervised machine learning result summary - Land](/Resources/Supervised_ML_Summary_Land.PNG)
 <br>
-<br>Supervised machine learning result summary - Home housing type
+<br>As for the case of "House" Housing type model, the coefficients suggest also an increase of the Price Index through the years. Nothing statistically sound can be said about the relationship between the city population and the Price Index.
+<br>
+<br>Fig. 4. Supervised machine learning result summary - Home housing type
 
 ![Supervised machine learning result summary - Home](/Resources/Supervised_ML_Summary_Housing.PNG)
 <br>
 <br>
+## **Conclusion**<br>
+<br>
+Overall, both models tell us that the Price Index had a tendency to increase through the years before the 2020 COVID-19 pandemic. However, the data exploration phase showed us that in 2020 there was a shift towards medium sized cities in 2020 with a decrease in Price index. This suggests that the house market was indeed impacted, although as mentioned above, further features need to be considered to improve the models accuracy.
