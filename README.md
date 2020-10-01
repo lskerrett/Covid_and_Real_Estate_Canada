@@ -59,8 +59,6 @@ A combination of unsupervised and supervised machine learning techniques will be
 ### *Model characteristics:*
 
 
--**Dependent variable:** House price index <br>
-
 -**Independent variables**: <br>
 Price Index (HPI), Population Density, Year.<br>
 

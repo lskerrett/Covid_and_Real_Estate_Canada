@@ -1,0 +1,1277 @@
+REF_DATE,City,Province,Housing_Type,PRICE_INDEX,city_size_type,pop_2016,city_size,pop_density,Year,PRICE_INDEX_P
+2015-02-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-03-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-04-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-05-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,99.0
+2015-06-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,99.0
+2015-07-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-08-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-09-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-10-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-11-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2015-12-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2015,100.0
+2016-01-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-02-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-03-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-04-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-05-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-06-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-07-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,99.0
+2016-08-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,99.0
+2016-09-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-10-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-11-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2016-12-01,St. John's,Newfoundland and Labrador,House only,100,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2016,100.0
+2017-01-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-02-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-03-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-04-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-05-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-06-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-07-01,St. John's,Newfoundland and Labrador,House only,99,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,99.0
+2017-08-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,98.0
+2017-09-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,98.0
+2017-10-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,98.0
+2017-11-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,98.0
+2017-12-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2017,98.0
+2018-01-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-02-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-03-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-04-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-05-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-06-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-07-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-08-01,St. John's,Newfoundland and Labrador,House only,98,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,98.0
+2018-09-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,97.0
+2018-10-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,97.0
+2018-11-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,97.0
+2018-12-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2018,97.0
+2019-01-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,97.0
+2019-02-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,97.0
+2019-03-01,St. John's,Newfoundland and Labrador,House only,97,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,97.0
+2019-04-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2019-05-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2019-06-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2019-07-01,St. John's,Newfoundland and Labrador,House only,95,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,95.0
+2019-08-01,St. John's,Newfoundland and Labrador,House only,95,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,95.0
+2019-09-01,St. John's,Newfoundland and Labrador,House only,95,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,95.0
+2019-10-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2019-11-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2019-12-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2019,96.0
+2020-01-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-02-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-03-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-04-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-05-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-06-01,St. John's,Newfoundland and Labrador,House only,96,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2020-07-01,St. John's,Newfoundland and Labrador,House only,95,"Large urban population centre (100,000 or more)",178427.0,166.0,1074.9,2020,104.17135548157557
+2015-02-01,Québec,Quebec,House only,101,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,101.0
+2015-03-01,Québec,Quebec,House only,101,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,101.0
+2015-04-01,Québec,Quebec,House only,101,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,101.0
+2015-05-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-06-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-08-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-09-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-10-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,100.0
+2015-11-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,99.0
+2015-12-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2015,99.0
+2016-01-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-02-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-03-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-04-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-05-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-06-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,99.0
+2016-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2016-08-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2016-09-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2016-10-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2016-11-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2016-12-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2016,100.0
+2017-01-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-02-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-03-01,Québec,Quebec,House only,99,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,99.0
+2017-04-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-05-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-06-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-08-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-09-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-10-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-11-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2017-12-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2017,100.0
+2018-01-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-02-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-03-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-04-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-05-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-06-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-08-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-09-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-10-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-11-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2018-12-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2018,100.0
+2019-01-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-02-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-03-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-04-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-05-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-06-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-08-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-09-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-10-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-11-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2019-12-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2019,100.0
+2020-01-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-02-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-03-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-04-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-05-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-06-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2020-07-01,Québec,Quebec,House only,100,"Large urban population centre (100,000 or more)",705103.0,427.66,1648.8,2020,104.1062584543206
+2015-02-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-03-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-04-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-05-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-06-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-07-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-08-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-09-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-10-01,Montréal,Quebec,House only,98,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,98.0
+2015-11-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,99.0
+2015-12-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2015,99.0
+2016-01-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-02-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-03-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-04-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-05-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-06-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-07-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-08-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-09-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,100.0
+2016-10-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,100.0
+2016-11-01,Montréal,Quebec,House only,99,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,99.0
+2016-12-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2016,100.0
+2017-01-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-02-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-03-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-04-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-05-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-06-01,Montréal,Quebec,House only,100,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,100.0
+2017-07-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2017-08-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2017-09-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2017-10-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2017-11-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2017-12-01,Montréal,Quebec,House only,101,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2017,101.0
+2018-01-01,Montréal,Quebec,House only,102,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,102.0
+2018-02-01,Montréal,Quebec,House only,102,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,102.0
+2018-03-01,Montréal,Quebec,House only,102,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,102.0
+2018-04-01,Montréal,Quebec,House only,102,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,102.0
+2018-05-01,Montréal,Quebec,House only,103,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,103.0
+2018-06-01,Montréal,Quebec,House only,104,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,104.0
+2018-07-01,Montréal,Quebec,House only,104,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,104.0
+2018-08-01,Montréal,Quebec,House only,104,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,104.0
+2018-09-01,Montréal,Quebec,House only,104,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,104.0
+2018-10-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,105.0
+2018-11-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,105.0
+2018-12-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2018,105.0
+2019-01-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,105.0
+2019-02-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,105.0
+2019-03-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,105.0
+2019-04-01,Montréal,Quebec,House only,105,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,105.0
+2019-05-01,Montréal,Quebec,House only,106,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,106.0
+2019-06-01,Montréal,Quebec,House only,106,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,106.0
+2019-07-01,Montréal,Quebec,House only,109,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,109.0
+2019-08-01,Montréal,Quebec,House only,110,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,110.0
+2019-09-01,Montréal,Quebec,House only,111,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,111.0
+2019-10-01,Montréal,Quebec,House only,112,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,112.0
+2019-11-01,Montréal,Quebec,House only,114,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,114.0
+2019-12-01,Montréal,Quebec,House only,114,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2019,114.0
+2020-01-01,Montréal,Quebec,House only,114,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-02-01,Montréal,Quebec,House only,115,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-03-01,Montréal,Quebec,House only,116,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-04-01,Montréal,Quebec,House only,116,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-05-01,Montréal,Quebec,House only,116,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-06-01,Montréal,Quebec,House only,117,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2020-07-01,Montréal,Quebec,House only,118,"Large urban population centre (100,000 or more)",3519595.0,1293.99,2719.9,2020,103.98476442070387
+2015-02-01,Toronto,Ontario,House only,86,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,86.0
+2015-03-01,Toronto,Ontario,House only,87,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,87.0
+2015-04-01,Toronto,Ontario,House only,87,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,87.0
+2015-05-01,Toronto,Ontario,House only,87,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,87.0
+2015-06-01,Toronto,Ontario,House only,88,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,88.0
+2015-07-01,Toronto,Ontario,House only,88,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,88.0
+2015-08-01,Toronto,Ontario,House only,89,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,89.0
+2015-09-01,Toronto,Ontario,House only,89,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,89.0
+2015-10-01,Toronto,Ontario,House only,90,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,90.0
+2015-11-01,Toronto,Ontario,House only,90,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,90.0
+2015-12-01,Toronto,Ontario,House only,90,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2015,90.0
+2016-01-01,Toronto,Ontario,House only,91,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,91.0
+2016-02-01,Toronto,Ontario,House only,91,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,91.0
+2016-03-01,Toronto,Ontario,House only,92,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,92.0
+2016-04-01,Toronto,Ontario,House only,93,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,93.0
+2016-05-01,Toronto,Ontario,House only,95,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,95.0
+2016-06-01,Toronto,Ontario,House only,96,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,96.0
+2016-07-01,Toronto,Ontario,House only,97,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,97.0
+2016-08-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,98.0
+2016-09-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,98.0
+2016-10-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,100.0
+2016-11-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,100.0
+2016-12-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2016,100.0
+2017-01-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,99.0
+2017-02-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,100.0
+2017-03-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,100.0
+2017-04-01,Toronto,Ontario,House only,102,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,102.0
+2017-05-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-06-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-07-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-08-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-09-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-10-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-11-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2017-12-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2017,103.0
+2018-01-01,Toronto,Ontario,House only,103,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,103.0
+2018-02-01,Toronto,Ontario,House only,102,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,102.0
+2018-03-01,Toronto,Ontario,House only,101,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,101.0
+2018-04-01,Toronto,Ontario,House only,101,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,101.0
+2018-05-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2018-06-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2018-07-01,Toronto,Ontario,House only,101,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,101.0
+2018-08-01,Toronto,Ontario,House only,101,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,101.0
+2018-09-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2018-10-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2018-11-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2018-12-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2018,100.0
+2019-01-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,100.0
+2019-02-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,100.0
+2019-03-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,100.0
+2019-04-01,Toronto,Ontario,House only,100,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,100.0
+2019-05-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,99.0
+2019-06-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,99.0
+2019-07-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,98.0
+2019-08-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,98.0
+2019-09-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,98.0
+2019-10-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,99.0
+2019-11-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,99.0
+2019-12-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2019,99.0
+2020-01-01,Toronto,Ontario,House only,98,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-02-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-03-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-04-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-05-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-06-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2020-07-01,Toronto,Ontario,House only,99,"Large urban population centre (100,000 or more)",5429524.0,1792.99,3028.2,2020,103.94979419330775
+2015-02-01,Hamilton,Ontario,House only,92,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,92.0
+2015-03-01,Hamilton,Ontario,House only,93,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,93.0
+2015-04-01,Hamilton,Ontario,House only,93,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,93.0
+2015-05-01,Hamilton,Ontario,House only,93,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,93.0
+2015-06-01,Hamilton,Ontario,House only,93,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,93.0
+2015-07-01,Hamilton,Ontario,House only,94,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,94.0
+2015-08-01,Hamilton,Ontario,House only,95,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,95.0
+2015-09-01,Hamilton,Ontario,House only,95,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,95.0
+2015-10-01,Hamilton,Ontario,House only,95,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,95.0
+2015-11-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,96.0
+2015-12-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2015,96.0
+2016-01-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,96.0
+2016-02-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,96.0
+2016-03-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,96.0
+2016-04-01,Hamilton,Ontario,House only,96,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,96.0
+2016-05-01,Hamilton,Ontario,House only,97,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,97.0
+2016-06-01,Hamilton,Ontario,House only,97,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,97.0
+2016-07-01,Hamilton,Ontario,House only,98,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,98.0
+2016-08-01,Hamilton,Ontario,House only,98,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,98.0
+2016-09-01,Hamilton,Ontario,House only,98,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,98.0
+2016-10-01,Hamilton,Ontario,House only,98,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,98.0
+2016-11-01,Hamilton,Ontario,House only,99,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,99.0
+2016-12-01,Hamilton,Ontario,House only,100,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2016,100.0
+2017-01-01,Hamilton,Ontario,House only,101,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,101.0
+2017-02-01,Hamilton,Ontario,House only,102,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,102.0
+2017-03-01,Hamilton,Ontario,House only,102,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,102.0
+2017-04-01,Hamilton,Ontario,House only,102,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,102.0
+2017-05-01,Hamilton,Ontario,House only,102,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,102.0
+2017-06-01,Hamilton,Ontario,House only,102,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,102.0
+2017-07-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2017-08-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2017-09-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2017-10-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2017-11-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2017-12-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2017,104.0
+2018-01-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,104.0
+2018-02-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,104.0
+2018-03-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,104.0
+2018-04-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,104.0
+2018-05-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-06-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-07-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-08-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-09-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,104.0
+2018-10-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-11-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2018-12-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2018,105.0
+2019-01-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,105.0
+2019-02-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,105.0
+2019-03-01,Hamilton,Ontario,House only,104,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,104.0
+2019-04-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,105.0
+2019-05-01,Hamilton,Ontario,House only,105,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,105.0
+2019-06-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-07-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-08-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-09-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-10-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-11-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2019-12-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2019,106.0
+2020-01-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-02-01,Hamilton,Ontario,House only,106,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-03-01,Hamilton,Ontario,House only,107,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-04-01,Hamilton,Ontario,House only,107,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-05-01,Hamilton,Ontario,House only,107,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-06-01,Hamilton,Ontario,House only,107,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2020-07-01,Hamilton,Ontario,House only,108,"Large urban population centre (100,000 or more)",693645.0,351.67,1972.4,2020,104.06955275991459
+2015-02-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2015-03-01,London,Ontario,House only,95,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,95.0
+2015-04-01,London,Ontario,House only,95,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,95.0
+2015-05-01,London,Ontario,House only,95,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,95.0
+2015-06-01,London,Ontario,House only,95,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,95.0
+2015-07-01,London,Ontario,House only,95,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,95.0
+2015-08-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2015-09-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2015-10-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2015-11-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2015-12-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2015,96.0
+2016-01-01,London,Ontario,House only,96,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,96.0
+2016-02-01,London,Ontario,House only,97,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,97.0
+2016-03-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-04-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-05-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-06-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-07-01,London,Ontario,House only,97,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,97.0
+2016-08-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-09-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-10-01,London,Ontario,House only,98,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,98.0
+2016-11-01,London,Ontario,House only,100,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,100.0
+2016-12-01,London,Ontario,House only,100,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2016,100.0
+2017-01-01,London,Ontario,House only,101,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,101.0
+2017-02-01,London,Ontario,House only,101,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,101.0
+2017-03-01,London,Ontario,House only,101,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,101.0
+2017-04-01,London,Ontario,House only,103,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,103.0
+2017-05-01,London,Ontario,House only,105,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,105.0
+2017-06-01,London,Ontario,House only,105,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,105.0
+2017-07-01,London,Ontario,House only,106,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,106.0
+2017-08-01,London,Ontario,House only,108,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,108.0
+2017-09-01,London,Ontario,House only,108,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,108.0
+2017-10-01,London,Ontario,House only,108,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,108.0
+2017-11-01,London,Ontario,House only,108,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,108.0
+2017-12-01,London,Ontario,House only,108,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2017,108.0
+2018-01-01,London,Ontario,House only,109,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,109.0
+2018-02-01,London,Ontario,House only,110,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,110.0
+2018-03-01,London,Ontario,House only,111,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,111.0
+2018-04-01,London,Ontario,House only,111,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,111.0
+2018-05-01,London,Ontario,House only,111,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,111.0
+2018-06-01,London,Ontario,House only,111,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,111.0
+2018-07-01,London,Ontario,House only,112,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,112.0
+2018-08-01,London,Ontario,House only,112,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,112.0
+2018-09-01,London,Ontario,House only,113,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,113.0
+2018-10-01,London,Ontario,House only,113,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,113.0
+2018-11-01,London,Ontario,House only,113,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,113.0
+2018-12-01,London,Ontario,House only,113,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2018,113.0
+2019-01-01,London,Ontario,House only,113,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,113.0
+2019-02-01,London,Ontario,House only,114,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,114.0
+2019-03-01,London,Ontario,House only,114,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,114.0
+2019-04-01,London,Ontario,House only,115,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,115.0
+2019-05-01,London,Ontario,House only,115,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,115.0
+2019-06-01,London,Ontario,House only,116,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,116.0
+2019-07-01,London,Ontario,House only,116,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,116.0
+2019-08-01,London,Ontario,House only,116,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,116.0
+2019-09-01,London,Ontario,House only,117,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,117.0
+2019-10-01,London,Ontario,House only,117,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,117.0
+2019-11-01,London,Ontario,House only,117,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,117.0
+2019-12-01,London,Ontario,House only,117,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2019,117.0
+2020-01-01,London,Ontario,House only,117,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-02-01,London,Ontario,House only,118,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-03-01,London,Ontario,House only,118,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-04-01,London,Ontario,House only,119,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-05-01,London,Ontario,House only,119,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-06-01,London,Ontario,House only,119,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2020-07-01,London,Ontario,House only,120,"Large urban population centre (100,000 or more)",383437.0,232.48,1649.3,2020,104.10620173971256
+2015-02-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-03-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-04-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-05-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-06-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-07-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-08-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-09-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-10-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-11-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2015-12-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2015,95.0
+2016-01-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,95.0
+2016-02-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,95.0
+2016-03-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,95.0
+2016-04-01,Windsor,Ontario,House only,95,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,95.0
+2016-05-01,Windsor,Ontario,House only,96,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,96.0
+2016-06-01,Windsor,Ontario,House only,97,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,97.0
+2016-07-01,Windsor,Ontario,House only,96,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,96.0
+2016-08-01,Windsor,Ontario,House only,96,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,96.0
+2016-09-01,Windsor,Ontario,House only,97,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,97.0
+2016-10-01,Windsor,Ontario,House only,99,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,99.0
+2016-11-01,Windsor,Ontario,House only,99,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,99.0
+2016-12-01,Windsor,Ontario,House only,100,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2016,100.0
+2017-01-01,Windsor,Ontario,House only,100,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,100.0
+2017-02-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-03-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-04-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-05-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-06-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-07-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-08-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-09-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-10-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-11-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2017-12-01,Windsor,Ontario,House only,101,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2017,101.0
+2018-01-01,Windsor,Ontario,House only,102,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,102.0
+2018-02-01,Windsor,Ontario,House only,102,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,102.0
+2018-03-01,Windsor,Ontario,House only,102,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,102.0
+2018-04-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-05-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-06-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-07-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-08-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-09-01,Windsor,Ontario,House only,104,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,104.0
+2018-10-01,Windsor,Ontario,House only,105,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,105.0
+2018-11-01,Windsor,Ontario,House only,105,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,105.0
+2018-12-01,Windsor,Ontario,House only,105,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2018,105.0
+2019-01-01,Windsor,Ontario,House only,105,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,105.0
+2019-02-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-03-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-04-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-05-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-06-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-07-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-08-01,Windsor,Ontario,House only,106,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,106.0
+2019-09-01,Windsor,Ontario,House only,107,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,107.0
+2019-10-01,Windsor,Ontario,House only,107,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,107.0
+2019-11-01,Windsor,Ontario,House only,107,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,107.0
+2019-12-01,Windsor,Ontario,House only,107,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2019,107.0
+2020-01-01,Windsor,Ontario,House only,107,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-02-01,Windsor,Ontario,House only,108,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-03-01,Windsor,Ontario,House only,108,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-04-01,Windsor,Ontario,House only,108,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-05-01,Windsor,Ontario,House only,108,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-06-01,Windsor,Ontario,House only,108,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2020-07-01,Windsor,Ontario,House only,109,"Large urban population centre (100,000 or more)",287069.0,176.21,1629.1,2020,104.1084930098823
+2015-02-01,Winnipeg,Manitoba,House only,95,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,95.0
+2015-03-01,Winnipeg,Manitoba,House only,95,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,95.0
+2015-04-01,Winnipeg,Manitoba,House only,95,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,95.0
+2015-05-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-06-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-07-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-08-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-09-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-10-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-11-01,Winnipeg,Manitoba,House only,96,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,96.0
+2015-12-01,Winnipeg,Manitoba,House only,97,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2015,97.0
+2016-01-01,Winnipeg,Manitoba,House only,97,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,97.0
+2016-02-01,Winnipeg,Manitoba,House only,97,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,97.0
+2016-03-01,Winnipeg,Manitoba,House only,97,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,97.0
+2016-04-01,Winnipeg,Manitoba,House only,97,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,97.0
+2016-05-01,Winnipeg,Manitoba,House only,98,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,98.0
+2016-06-01,Winnipeg,Manitoba,House only,98,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,98.0
+2016-07-01,Winnipeg,Manitoba,House only,98,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,98.0
+2016-08-01,Winnipeg,Manitoba,House only,98,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,98.0
+2016-09-01,Winnipeg,Manitoba,House only,99,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,99.0
+2016-10-01,Winnipeg,Manitoba,House only,99,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,99.0
+2016-11-01,Winnipeg,Manitoba,House only,100,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,100.0
+2016-12-01,Winnipeg,Manitoba,House only,100,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2016,100.0
+2017-01-01,Winnipeg,Manitoba,House only,100,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,100.0
+2017-02-01,Winnipeg,Manitoba,House only,100,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,100.0
+2017-03-01,Winnipeg,Manitoba,House only,100,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,100.0
+2017-04-01,Winnipeg,Manitoba,House only,101,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,101.0
+2017-05-01,Winnipeg,Manitoba,House only,102,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,102.0
+2017-06-01,Winnipeg,Manitoba,House only,103,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,103.0
+2017-07-01,Winnipeg,Manitoba,House only,103,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,103.0
+2017-08-01,Winnipeg,Manitoba,House only,103,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,103.0
+2017-09-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,104.0
+2017-10-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,104.0
+2017-11-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,104.0
+2017-12-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2017,104.0
+2018-01-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,104.0
+2018-02-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,104.0
+2018-03-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,104.0
+2018-04-01,Winnipeg,Manitoba,House only,104,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,104.0
+2018-05-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-06-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-07-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-08-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-09-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-10-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-11-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2018-12-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2018,105.0
+2019-01-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,105.0
+2019-02-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,105.0
+2019-03-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-04-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-05-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-06-01,Winnipeg,Manitoba,House only,105,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,105.0
+2019-07-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-08-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-09-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-10-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-11-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2019-12-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2019,106.0
+2020-01-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-02-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-03-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-04-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-05-01,Winnipeg,Manitoba,House only,106,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-06-01,Winnipeg,Manitoba,House only,107,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2020-07-01,Winnipeg,Manitoba,House only,107,"Large urban population centre (100,000 or more)",711925.0,343.99,2069.6,2020,104.05852744008689
+2015-02-01,Regina,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,103.0
+2015-03-01,Regina,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,103.0
+2015-04-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-05-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-06-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-07-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-08-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-09-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-10-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-11-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2015-12-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2015,101.0
+2016-01-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-02-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-03-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-04-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-05-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-06-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-07-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,101.0
+2016-08-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,100.0
+2016-09-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,100.0
+2016-10-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,100.0
+2016-11-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,99.0
+2016-12-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2016,100.0
+2017-01-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,99.0
+2017-02-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-03-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-04-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-05-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-06-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-07-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-08-01,Regina,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,101.0
+2017-09-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-10-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-11-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2017-12-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2017,100.0
+2018-01-01,Regina,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,100.0
+2018-02-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,99.0
+2018-03-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,99.0
+2018-04-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,99.0
+2018-05-01,Regina,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,99.0
+2018-06-01,Regina,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,98.0
+2018-07-01,Regina,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,98.0
+2018-08-01,Regina,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,97.0
+2018-09-01,Regina,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,97.0
+2018-10-01,Regina,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,97.0
+2018-11-01,Regina,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,96.0
+2018-12-01,Regina,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2018,95.0
+2019-01-01,Regina,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,95.0
+2019-02-01,Regina,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,95.0
+2019-03-01,Regina,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,95.0
+2019-04-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-05-01,Regina,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,95.0
+2019-06-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-07-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-08-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-09-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-10-01,Regina,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,94.0
+2019-11-01,Regina,Saskatchewan,House only,92,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,92.0
+2019-12-01,Regina,Saskatchewan,House only,92,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2019,92.0
+2020-01-01,Regina,Saskatchewan,House only,91,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-02-01,Regina,Saskatchewan,House only,90,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-03-01,Regina,Saskatchewan,House only,89,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-04-01,Regina,Saskatchewan,House only,89,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-05-01,Regina,Saskatchewan,House only,89,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-06-01,Regina,Saskatchewan,House only,89,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2020-07-01,Regina,Saskatchewan,House only,89,"Large urban population centre (100,000 or more)",214631.0,103.11,2081.5,2020,104.05717763241228
+2015-02-01,Saskatoon,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,103.0
+2015-03-01,Saskatoon,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,103.0
+2015-04-01,Saskatoon,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,103.0
+2015-05-01,Saskatoon,Saskatchewan,House only,104,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,104.0
+2015-06-01,Saskatoon,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,103.0
+2015-07-01,Saskatoon,Saskatchewan,House only,104,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,104.0
+2015-08-01,Saskatoon,Saskatchewan,House only,104,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,104.0
+2015-09-01,Saskatoon,Saskatchewan,House only,103,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,103.0
+2015-10-01,Saskatoon,Saskatchewan,House only,102,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,102.0
+2015-11-01,Saskatoon,Saskatchewan,House only,102,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,102.0
+2015-12-01,Saskatoon,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2015,101.0
+2016-01-01,Saskatoon,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,101.0
+2016-02-01,Saskatoon,Saskatchewan,House only,101,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,101.0
+2016-03-01,Saskatoon,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,100.0
+2016-04-01,Saskatoon,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,100.0
+2016-05-01,Saskatoon,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,100.0
+2016-06-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-07-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-08-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-09-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-10-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-11-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,99.0
+2016-12-01,Saskatoon,Saskatchewan,House only,100,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2016,100.0
+2017-01-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,99.0
+2017-02-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,99.0
+2017-03-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,99.0
+2017-04-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,99.0
+2017-05-01,Saskatoon,Saskatchewan,House only,99,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,99.0
+2017-06-01,Saskatoon,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,98.0
+2017-07-01,Saskatoon,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,98.0
+2017-08-01,Saskatoon,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,98.0
+2017-09-01,Saskatoon,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,98.0
+2017-10-01,Saskatoon,Saskatchewan,House only,98,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,98.0
+2017-11-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,97.0
+2017-12-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2017,97.0
+2018-01-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-02-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-03-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-04-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-05-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-06-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-07-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-08-01,Saskatoon,Saskatchewan,House only,97,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,97.0
+2018-09-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,96.0
+2018-10-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,96.0
+2018-11-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,96.0
+2018-12-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2018,96.0
+2019-01-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,96.0
+2019-02-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,96.0
+2019-03-01,Saskatoon,Saskatchewan,House only,96,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,96.0
+2019-04-01,Saskatoon,Saskatchewan,House only,95,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,95.0
+2019-05-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-06-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-07-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-08-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-09-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-10-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-11-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2019-12-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2019,94.0
+2020-01-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-02-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-03-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-04-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-05-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-06-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2020-07-01,Saskatoon,Saskatchewan,House only,94,"Large urban population centre (100,000 or more)",245181.0,125.5,1953.7,2020,104.07167388626021
+2015-02-01,Calgary,Alberta,House only,103,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,103.0
+2015-03-01,Calgary,Alberta,House only,102,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,102.0
+2015-04-01,Calgary,Alberta,House only,102,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,102.0
+2015-05-01,Calgary,Alberta,House only,102,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,102.0
+2015-06-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-07-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-08-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-09-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-10-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-11-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2015-12-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2015,101.0
+2016-01-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,101.0
+2016-02-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,101.0
+2016-03-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,101.0
+2016-04-01,Calgary,Alberta,House only,101,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,101.0
+2016-05-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,100.0
+2016-06-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,99.0
+2016-07-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,100.0
+2016-08-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,100.0
+2016-09-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,99.0
+2016-10-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,99.0
+2016-11-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,99.0
+2016-12-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2016,100.0
+2017-01-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-02-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-03-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-04-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-05-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-06-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,99.0
+2017-07-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2017-08-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2017-09-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2017-10-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2017-11-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2017-12-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2017,100.0
+2018-01-01,Calgary,Alberta,House only,100,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,100.0
+2018-02-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,99.0
+2018-03-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,99.0
+2018-04-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2018-05-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2018-06-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,99.0
+2018-07-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,99.0
+2018-08-01,Calgary,Alberta,House only,99,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,99.0
+2018-09-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2018-10-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2018-11-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2018-12-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2018,98.0
+2019-01-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,98.0
+2019-02-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,98.0
+2019-03-01,Calgary,Alberta,House only,98,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,98.0
+2019-04-01,Calgary,Alberta,House only,97,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,97.0
+2019-05-01,Calgary,Alberta,House only,97,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,97.0
+2019-06-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-07-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-08-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-09-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-10-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-11-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2019-12-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2019,95.0
+2020-01-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-02-01,Calgary,Alberta,House only,95,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-03-01,Calgary,Alberta,House only,94,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-04-01,Calgary,Alberta,House only,94,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-05-01,Calgary,Alberta,House only,94,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-06-01,Calgary,Alberta,House only,94,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2020-07-01,Calgary,Alberta,House only,93,"Large urban population centre (100,000 or more)",1237656.0,586.08,2111.8,2020,104.05374072715767
+2015-02-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-03-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-04-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-05-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-06-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-07-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-08-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-09-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,100.0
+2015-10-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,101.0
+2015-11-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,101.0
+2015-12-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2015,101.0
+2016-01-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,101.0
+2016-02-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,101.0
+2016-03-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,101.0
+2016-04-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,101.0
+2016-05-01,Edmonton,Alberta,House only,101,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,101.0
+2016-06-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,100.0
+2016-07-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,100.0
+2016-08-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,100.0
+2016-09-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,99.0
+2016-10-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,100.0
+2016-11-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,99.0
+2016-12-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2016,100.0
+2017-01-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,100.0
+2017-02-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,100.0
+2017-03-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,100.0
+2017-04-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,100.0
+2017-05-01,Edmonton,Alberta,House only,100,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,100.0
+2017-06-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-07-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-08-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-09-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-10-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-11-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2017-12-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2017,99.0
+2018-01-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-02-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-03-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-04-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-05-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-06-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-07-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-08-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,98.0
+2018-09-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,98.0
+2018-10-01,Edmonton,Alberta,House only,99,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,99.0
+2018-11-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,98.0
+2018-12-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2018,98.0
+2019-01-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,98.0
+2019-02-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,98.0
+2019-03-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,98.0
+2019-04-01,Edmonton,Alberta,House only,98,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,98.0
+2019-05-01,Edmonton,Alberta,House only,97,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,97.0
+2019-06-01,Edmonton,Alberta,House only,97,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,97.0
+2019-07-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,96.0
+2019-08-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,96.0
+2019-09-01,Edmonton,Alberta,House only,97,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,97.0
+2019-10-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,96.0
+2019-11-01,Edmonton,Alberta,House only,95,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,95.0
+2019-12-01,Edmonton,Alberta,House only,95,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2019,95.0
+2020-01-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-02-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-03-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-04-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-05-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-06-01,Edmonton,Alberta,House only,96,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2020-07-01,Edmonton,Alberta,House only,95,"Large urban population centre (100,000 or more)",1062643.0,572.69,1855.5,2020,104.08281263530444
+2015-02-01,Vancouver,British Columbia,House only,90,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,90.0
+2015-03-01,Vancouver,British Columbia,House only,90,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,90.0
+2015-04-01,Vancouver,British Columbia,House only,91,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,91.0
+2015-05-01,Vancouver,British Columbia,House only,91,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,91.0
+2015-06-01,Vancouver,British Columbia,House only,92,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,92.0
+2015-07-01,Vancouver,British Columbia,House only,92,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,92.0
+2015-08-01,Vancouver,British Columbia,House only,92,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,92.0
+2015-09-01,Vancouver,British Columbia,House only,93,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,93.0
+2015-10-01,Vancouver,British Columbia,House only,93,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,93.0
+2015-11-01,Vancouver,British Columbia,House only,94,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,94.0
+2015-12-01,Vancouver,British Columbia,House only,94,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2015,94.0
+2016-01-01,Vancouver,British Columbia,House only,95,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,95.0
+2016-02-01,Vancouver,British Columbia,House only,96,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,96.0
+2016-03-01,Vancouver,British Columbia,House only,97,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,97.0
+2016-04-01,Vancouver,British Columbia,House only,97,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,97.0
+2016-05-01,Vancouver,British Columbia,House only,99,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,99.0
+2016-06-01,Vancouver,British Columbia,House only,99,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,99.0
+2016-07-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2016-08-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2016-09-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2016-10-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2016-11-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2016-12-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2016,100.0
+2017-01-01,Vancouver,British Columbia,House only,99,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,99.0
+2017-02-01,Vancouver,British Columbia,House only,99,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,99.0
+2017-03-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,100.0
+2017-04-01,Vancouver,British Columbia,House only,100,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,100.0
+2017-05-01,Vancouver,British Columbia,House only,103,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,103.0
+2017-06-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,105.0
+2017-07-01,Vancouver,British Columbia,House only,108,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,108.0
+2017-08-01,Vancouver,British Columbia,House only,108,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,108.0
+2017-09-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,109.0
+2017-10-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,109.0
+2017-11-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,109.0
+2017-12-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2017,109.0
+2018-01-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-02-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-03-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-04-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-05-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-06-01,Vancouver,British Columbia,House only,110,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,110.0
+2018-07-01,Vancouver,British Columbia,House only,110,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,110.0
+2018-08-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-09-01,Vancouver,British Columbia,House only,110,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,110.0
+2018-10-01,Vancouver,British Columbia,House only,110,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,110.0
+2018-11-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2018-12-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2018,109.0
+2019-01-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,109.0
+2019-02-01,Vancouver,British Columbia,House only,108,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,108.0
+2019-03-01,Vancouver,British Columbia,House only,109,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,109.0
+2019-04-01,Vancouver,British Columbia,House only,108,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,108.0
+2019-05-01,Vancouver,British Columbia,House only,107,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,107.0
+2019-06-01,Vancouver,British Columbia,House only,107,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,107.0
+2019-07-01,Vancouver,British Columbia,House only,107,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,107.0
+2019-08-01,Vancouver,British Columbia,House only,107,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,107.0
+2019-09-01,Vancouver,British Columbia,House only,106,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,106.0
+2019-10-01,Vancouver,British Columbia,House only,106,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,106.0
+2019-11-01,Vancouver,British Columbia,House only,104,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,104.0
+2019-12-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2019,105.0
+2020-01-01,Vancouver,British Columbia,House only,104,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-02-01,Vancouver,British Columbia,House only,104,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-03-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-04-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-05-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-06-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2020-07-01,Vancouver,British Columbia,House only,105,"Large urban population centre (100,000 or more)",2264823.0,876.44,2584.1,2020,104.0001681082822
+2015-02-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-03-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-04-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-05-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-06-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-07-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-08-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-09-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-10-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-11-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2015-12-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2015,93.0
+2016-01-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,93.0
+2016-02-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,93.0
+2016-03-01,Victoria,British Columbia,House only,93,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,93.0
+2016-04-01,Victoria,British Columbia,House only,95,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,95.0
+2016-05-01,Victoria,British Columbia,House only,96,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,96.0
+2016-06-01,Victoria,British Columbia,House only,96,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,96.0
+2016-07-01,Victoria,British Columbia,House only,97,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,97.0
+2016-08-01,Victoria,British Columbia,House only,97,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,97.0
+2016-09-01,Victoria,British Columbia,House only,98,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,98.0
+2016-10-01,Victoria,British Columbia,House only,99,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,99.0
+2016-11-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,100.0
+2016-12-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2016,100.0
+2017-01-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,100.0
+2017-02-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-03-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-04-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-05-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-06-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-07-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-08-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-09-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,101.0
+2017-10-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,102.0
+2017-11-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,102.0
+2017-12-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2017,102.0
+2018-01-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,102.0
+2018-02-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,102.0
+2018-03-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-04-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-05-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-06-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-07-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-08-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-09-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-10-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-11-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2018-12-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2018,103.0
+2019-01-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,103.0
+2019-02-01,Victoria,British Columbia,House only,103,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,103.0
+2019-03-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,102.0
+2019-04-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,101.0
+2019-05-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,101.0
+2019-06-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-07-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-08-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-09-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-10-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-11-01,Victoria,British Columbia,House only,100,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,100.0
+2019-12-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2019,101.0
+2020-01-01,Victoria,British Columbia,House only,101,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-02-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-03-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-04-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-05-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-06-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2020-07-01,Victoria,British Columbia,House only,102,"Large urban population centre (100,000 or more)",335696.0,215.88,1555.0,2020,104.11689811481301
+2015-02-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2015-03-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2015-04-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2015-05-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2015-06-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,99.0
+2015-07-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,99.0
+2015-08-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,99.0
+2015-09-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,99.0
+2015-10-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,99.0
+2015-11-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2015-12-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2015,98.0
+2016-01-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-02-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-03-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-04-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-05-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-06-01,Halifax,Nova Scotia,House only,98,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,98.0
+2016-07-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,99.0
+2016-08-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,99.0
+2016-09-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,99.0
+2016-10-01,Halifax,Nova Scotia,House only,99,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,99.0
+2016-11-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,100.0
+2016-12-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2016,100.0
+2017-01-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-02-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-03-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-04-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-05-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-06-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-07-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,101.0
+2017-08-01,Halifax,Nova Scotia,House only,100,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,100.0
+2017-09-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,101.0
+2017-10-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,101.0
+2017-11-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,101.0
+2017-12-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2017,101.0
+2018-01-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,101.0
+2018-02-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,101.0
+2018-03-01,Halifax,Nova Scotia,House only,101,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,101.0
+2018-04-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-05-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-06-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-07-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-08-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-09-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-10-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-11-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2018-12-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2018,102.0
+2019-01-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,102.0
+2019-02-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,102.0
+2019-03-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,102.0
+2019-04-01,Halifax,Nova Scotia,House only,102,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,102.0
+2019-05-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-06-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-07-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-08-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-09-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-10-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-11-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2019-12-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2019,103.0
+2020-01-01,Halifax,Nova Scotia,House only,103,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-02-01,Halifax,Nova Scotia,House only,104,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-03-01,Halifax,Nova Scotia,House only,104,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-04-01,Halifax,Nova Scotia,House only,104,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-05-01,Halifax,Nova Scotia,House only,105,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-06-01,Halifax,Nova Scotia,House only,105,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2020-07-01,Halifax,Nova Scotia,House only,106,"Large urban population centre (100,000 or more)",316701.0,234.72,1349.3,2020,104.1402305046131
+2015-02-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2015-03-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2015-04-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,100.0
+2015-05-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,100.0
+2015-06-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,100.0
+2015-07-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,100.0
+2015-08-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,100.0
+2015-09-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2015-10-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2015-11-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2015-12-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2015,99.0
+2016-01-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,99.0
+2016-02-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-03-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-04-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-05-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-06-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-07-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-08-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-09-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-10-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-11-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2016-12-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2016,100.0
+2017-01-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-02-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-03-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-04-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-05-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,99.0
+2017-06-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,99.0
+2017-07-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-08-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-09-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-10-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-11-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2017-12-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2017,100.0
+2018-01-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-02-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-03-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-04-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-05-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-06-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-07-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-08-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-09-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-10-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2018-11-01,Charlottetown,Prince Edward Island,House only,99,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,99.0
+2018-12-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2018,100.0
+2019-01-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,100.0
+2019-02-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,100.0
+2019-03-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,100.0
+2019-04-01,Charlottetown,Prince Edward Island,House only,100,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,100.0
+2019-05-01,Charlottetown,Prince Edward Island,House only,101,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,101.0
+2019-06-01,Charlottetown,Prince Edward Island,House only,101,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,101.0
+2019-07-01,Charlottetown,Prince Edward Island,House only,101,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,101.0
+2019-08-01,Charlottetown,Prince Edward Island,House only,101,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,101.0
+2019-09-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,102.0
+2019-10-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,102.0
+2019-11-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,102.0
+2019-12-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2019,102.0
+2020-01-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-02-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-03-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-04-01,Charlottetown,Prince Edward Island,House only,102,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-05-01,Charlottetown,Prince Edward Island,House only,103,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-06-01,Charlottetown,Prince Edward Island,House only,103,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2020-07-01,Charlottetown,Prince Edward Island,House only,103,"Medium population centre (30,000 to 99,999)",44739.0,49.3,907.4,2020,104.19035487531164
+2016-12-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2016,100.0
+2017-01-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,100.0
+2017-02-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-03-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-04-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-05-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-06-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-07-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-08-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-09-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-10-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-11-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2017-12-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2017,99.0
+2018-01-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,99.0
+2018-02-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,99.0
+2018-03-01,Sherbrooke,Quebec,House only,99,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,99.0
+2018-04-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-05-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-06-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-07-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-08-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-09-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-10-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-11-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2018-12-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2018,100.0
+2019-01-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,100.0
+2019-02-01,Sherbrooke,Quebec,House only,100,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,100.0
+2019-03-01,Sherbrooke,Quebec,House only,101,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,101.0
+2019-04-01,Sherbrooke,Quebec,House only,101,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,101.0
+2019-05-01,Sherbrooke,Quebec,House only,101,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,101.0
+2019-06-01,Sherbrooke,Quebec,House only,101,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,101.0
+2019-07-01,Sherbrooke,Quebec,House only,101,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,101.0
+2019-08-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,103.0
+2019-09-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,103.0
+2019-10-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,103.0
+2019-11-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,103.0
+2019-12-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2019,103.0
+2020-01-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-02-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-03-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-04-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-05-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-06-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2020-07-01,Sherbrooke,Quebec,House only,103,"Large urban population centre (100,000 or more)",139565.0,96.34,1448.7,2020,104.1289556405095
+2016-12-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2016,100.0
+2017-01-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-02-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-03-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-04-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-05-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-06-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-07-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-08-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-09-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-10-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-11-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2017-12-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2017,100.0
+2018-01-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-02-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-03-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-04-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-05-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-06-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-07-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-08-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-09-01,Trois-Rivières,Quebec,House only,100,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,100.0
+2018-10-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,101.0
+2018-11-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,101.0
+2018-12-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2018,101.0
+2019-01-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-02-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-03-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-04-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-05-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-06-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-07-01,Trois-Rivières,Quebec,House only,101,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,101.0
+2019-08-01,Trois-Rivières,Quebec,House only,102,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,102.0
+2019-09-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,103.0
+2019-10-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,103.0
+2019-11-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,103.0
+2019-12-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2019,103.0
+2020-01-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-02-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-03-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-04-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-05-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-06-01,Trois-Rivières,Quebec,House only,103,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2020-07-01,Trois-Rivières,Quebec,House only,104,"Large urban population centre (100,000 or more)",114203.0,72.23,1581.2,2020,104.11392626934503
+2016-12-01,Oshawa,Ontario,House only,100,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2016,100.0
+2017-01-01,Oshawa,Ontario,House only,100,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,100.0
+2017-02-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,101.0
+2017-03-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-04-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-05-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-06-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-07-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-08-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,103.0
+2017-09-01,Oshawa,Ontario,House only,104,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,104.0
+2017-10-01,Oshawa,Ontario,House only,104,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,104.0
+2017-11-01,Oshawa,Ontario,House only,104,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,104.0
+2017-12-01,Oshawa,Ontario,House only,104,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2017,104.0
+2018-01-01,Oshawa,Ontario,House only,104,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,104.0
+2018-02-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-03-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-04-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-05-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-06-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-07-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-08-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-09-01,Oshawa,Ontario,House only,103,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,103.0
+2018-10-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,102.0
+2018-11-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,102.0
+2018-12-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2018,102.0
+2019-01-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,102.0
+2019-02-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-03-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-04-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-05-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,102.0
+2019-06-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,102.0
+2019-07-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,102.0
+2019-08-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-09-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,102.0
+2019-10-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-11-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2019-12-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2019,101.0
+2020-01-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-02-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-03-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-04-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-05-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-06-01,Oshawa,Ontario,House only,101,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2020-07-01,Oshawa,Ontario,House only,102,"Large urban population centre (100,000 or more)",308875.0,154.57,1998.3,2020,104.06661494321133
+2016-12-01,Guelph,Ontario,House only,100,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2016,100.0
+2017-01-01,Guelph,Ontario,House only,100,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,100.0
+2017-02-01,Guelph,Ontario,House only,101,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,101.0
+2017-03-01,Guelph,Ontario,House only,102,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,102.0
+2017-04-01,Guelph,Ontario,House only,102,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,102.0
+2017-05-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-06-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-07-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-08-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-09-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-10-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-11-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2017-12-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2017,104.0
+2018-01-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,104.0
+2018-02-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,104.0
+2018-03-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,104.0
+2018-04-01,Guelph,Ontario,House only,104,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,104.0
+2018-05-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-06-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-07-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-08-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-09-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-10-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-11-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2018-12-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2018,105.0
+2019-01-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,105.0
+2019-02-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,105.0
+2019-03-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,105.0
+2019-04-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,105.0
+2019-05-01,Guelph,Ontario,House only,105,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,105.0
+2019-06-01,Guelph,Ontario,House only,106,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,106.0
+2019-07-01,Guelph,Ontario,House only,106,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,106.0
+2019-08-01,Guelph,Ontario,House only,106,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,106.0
+2019-09-01,Guelph,Ontario,House only,106,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,106.0
+2019-10-01,Guelph,Ontario,House only,107,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,107.0
+2019-11-01,Guelph,Ontario,House only,107,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,107.0
+2019-12-01,Guelph,Ontario,House only,107,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2019,107.0
+2020-01-01,Guelph,Ontario,House only,107,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-02-01,Guelph,Ontario,House only,107,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-03-01,Guelph,Ontario,House only,109,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-04-01,Guelph,Ontario,House only,109,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-05-01,Guelph,Ontario,House only,110,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-06-01,Guelph,Ontario,House only,111,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2020-07-01,Guelph,Ontario,House only,111,"Large urban population centre (100,000 or more)",132397.0,74.1,1786.7,2020,104.09061656538825
+2016-12-01,Kelowna,British Columbia,House only,100,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2016,100.0
+2017-01-01,Kelowna,British Columbia,House only,100,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,100.0
+2017-02-01,Kelowna,British Columbia,House only,100,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,100.0
+2017-03-01,Kelowna,British Columbia,House only,100,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,100.0
+2017-04-01,Kelowna,British Columbia,House only,100,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,100.0
+2017-05-01,Kelowna,British Columbia,House only,101,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,101.0
+2017-06-01,Kelowna,British Columbia,House only,101,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,101.0
+2017-07-01,Kelowna,British Columbia,House only,102,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,102.0
+2017-08-01,Kelowna,British Columbia,House only,103,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,103.0
+2017-09-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,104.0
+2017-10-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,104.0
+2017-11-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,104.0
+2017-12-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2017,104.0
+2018-01-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-02-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-03-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-04-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-05-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-06-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-07-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-08-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-09-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-10-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-11-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2018-12-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2018,104.0
+2019-01-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-02-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-03-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-04-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-05-01,Kelowna,British Columbia,House only,103,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,103.0
+2019-06-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-07-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-08-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-09-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-10-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-11-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2019-12-01,Kelowna,British Columbia,House only,104,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2019,104.0
+2020-01-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-02-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-03-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-04-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-05-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-06-01,Kelowna,British Columbia,House only,105,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
+2020-07-01,Kelowna,British Columbia,House only,106,"Large urban population centre (100,000 or more)",151957.0,136.44,1113.8,2020,104.16694308506021
